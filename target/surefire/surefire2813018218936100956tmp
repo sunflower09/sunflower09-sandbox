@@ -1,0 +1,5 @@
+#surefire
+#Fri Sep 07 02:22:10 JST 2012
+user.dir=/home/cyubachi/workspace2/SeleniumSample
+localRepository=/home/cyubachi/.m2/repository
+basedir=/home/cyubachi/workspace2/SeleniumSample
